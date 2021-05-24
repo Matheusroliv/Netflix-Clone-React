@@ -17,7 +17,7 @@ const MovieRowList = styled.div`
 `
 const MovieRowItem = styled.div`
     display: inline-block;
-    width: 150px;
+    width: 200px;
     cursor: pointer;
 
     img {
